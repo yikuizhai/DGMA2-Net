@@ -1,6 +1,7 @@
 <style>
-p{
-text-align: justify;text-justify:inter-word;
+p {
+    text-align: justify;
+    text-justify:inter-word;
 </style>
 # DGMA2-Net: A Difference-Guided Multiscale Aggregation Attention Network for Remote Sensing Change Detection
 
