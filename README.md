@@ -7,8 +7,11 @@ This repo is the official implementation of https://ieeexplore.ieee.org/stamp/st
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![zhai2-3390206-large](https://github.com/user-attachments/assets/e3190468-872b-4e86-8c9c-baf387cb0ea9)
 
 ## Get Strat
- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hanet-a-hierarchical-attention-network-for/change-detection-on-levir-cd)
+![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hanet-a-hierarchical-attention-network-for/change-detection-on-levir-cd)
 
+![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hanet-a-hierarchical-attention-network-for/change-detection-on-BCDD)
+
+![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hanet-a-hierarchical-attention-network-for/change-detection-on-sysu-cd)
 ### Download three dataset LEVIR-CD, BCDD, SYSU-CD, and prepare datasets into following structure
 
 ```
